@@ -105,7 +105,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -118,11 +118,11 @@ header ul {
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:270px;
+  width:300px;
 }
 
 header li {
-  width:89px;
+  width:74px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
@@ -159,12 +159,13 @@ strong {
   font-weight:500;
 }
 
-header ul li + li + li {
+header ul li + li + li + li {
   border-right:none;
-  width:89px;
+  width:74px;
 }
 
 header ul a strong {
+  padding: 7px 0;
   font-size:14px;
   display:block;
   color:#222;
@@ -188,7 +189,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
   bottom:50px;
