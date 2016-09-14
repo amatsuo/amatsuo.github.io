@@ -196,6 +196,10 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+footer p {
+  font-size: 12px;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -269,4 +273,24 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+
+.abstract {
+  display: none;
+  padding: 10px;
+  margin: 0 5px 10px 5px;
+  background-color: #EEE; 
+}
+
+div .p {
+    padding: 5px 0 10px 0;
+    
+}
+.cl{
+    font-weight: bolder;
+}
+
+.place_holder {
+    height: 10px;
 }
