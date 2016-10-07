@@ -1,7 +1,7 @@
 # Akitaka Matsuo's webpage
 
 
-The theme of this page is developed by [Steve Smith](http://orderedlist.github.com/).
+The theme of this page is developed by [Steve Smith](http://orderedlist.github.com/). This will be used as my personal webpage.
 
 # License
 
