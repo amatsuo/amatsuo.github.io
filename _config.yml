@@ -1,4 +1,4 @@
-baseurl: /amatsuo_web
+baseurl: ""
 exclude: ['README.md', '.gitignore', 'r-scr']
 permalink: pretty
 
@@ -13,12 +13,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: kbenoit
+  github: amatsuo
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: kenbenoit
+  twitter: amatsuo
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
