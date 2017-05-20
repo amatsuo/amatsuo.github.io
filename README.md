@@ -1,11 +1,10 @@
 # Akitaka Matsuo's webpage
 
 
-The theme of this page is developed by [Steve Smith](http://orderedlist.github.com/). This will be used as my personal webpage.
+This is a repository of my personal webpage (https://amatsuo.github.io). The theme of this page (minimal-jekyll) is forked from a github repository by [Steve Smith](http://orderedlist.github.com/). 
 
 # License
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+The original theme as well as this repository is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 
 
