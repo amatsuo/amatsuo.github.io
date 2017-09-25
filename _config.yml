@@ -1,5 +1,5 @@
 baseurl: ""
-exclude: ['README.md', '.gitignore', 'r-scr']
+exclude: ['README.md', '.gitignore', 'r-scr', 'old']
 permalink: pretty
 
 
