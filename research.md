@@ -4,24 +4,23 @@ layout: default
 # Publications
 
 &ldquo;Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data.&rdquo; Accepted for publication, _Statistics, Politics and Policy_ with Julio Amador, Sofia Collignon-Delmar, and Kenneth Benoit.
-[**[pdf]**](../file/Amador_etal_SPP_2017.pdf")<!--<span class='cl' id="article3cl">[Abstract]</span>-->
+[[pdf]](../file/Amador_etal_SPP_2017.pdf")<!--<span class='cl' id="article3cl">[Abstract]</span>-->
 
 &ldquo;The Effects of Election Proximity on Participatory Shirking: The Staggered-Term Chamber as a Laboratory.&rdquo; (2015)
-_Legislative Studies Quarterly,_ 40(4), pp. 599-625, with Kentaro Fukumoto. <span class='cl' id="article1cl">[Abstract]</span>
-<span class='cl'>[[Link]](http://onlinelibrary.wiley.com/doi/10.1111/lsq.12090/abstract)</span>
+_Legislative Studies Quarterly,_ 40(4), pp. 599-625, with Kentaro Fukumoto. `[Abstract]`{:.cl}{:#article1cl}
+[[Link]](http://onlinelibrary.wiley.com/doi/10.1111/lsq.12090/abstract)
 
-<div class="abstract" id='article1abst'>
+{:.abstract}
+{:#article1abst}
 This study discusses a downside of electoral pressure. As elections approach, legislators reduce their effort in legislative activities, albeit while increasing their efficiency. To show this, we propose a new, natural experimental design exploiting staggered legislative election calendars to identify the effect of approaching elections. Two-way natural blocking improves the balance of pretreatments and an instrumental variable approach addresses noncompliance by retirees. Our analysis of the Japanese House of Councillors demonstrates that legislators up for election show up in the chamber less often than those not facing election; however, when they do show up and speak, they tend to speak longer.
-</div>
+
 
 &ldquo;Kokkai Giin Ha Naze Iinkai De Hatugen Suru No Ka? Seitou, Rieki, Senkyo Seido [Why Do Diet Members Speak in Committees? Political Parties, Legislators, and Electoral Systems].&rdquo; (2010) _Japanese Journal of Electoral Studies_, 26(2), pp. 84-103, with Shunta Matsumoto [in Japanese].
-<span class='cl' id="article2cl">[Abstract in English]</span>
+`[Abstract in English]`{:.cl}{:#article2cl}
 
-<div class="abstract" id='article2abst'>
-This article explains what determine the amount of speeches delivered by Japanese Lower House members at standing committees.  The literature has considered committees as merely obstacles to pass legislations or as an &ldquo;arena&rdquo; for debates only for partisan purposes.  This article argues that individual members' motivations are also important: members use speeches as opportunities for improving electoral fortunes, getting promotion in their party, and influencing policy by exerting their expertise.  To support this argument, the authors parse conference minutes in the 1980s and 2000s using Perl scripts and compile an original dataset on the amount of committee speeches given by individual House members.  The analyses show that there are three important determinants of speech amounts, which are members' electoral interests, policy expertise of each member, and partisan politics.  In addition, comparison between two decades suggests the changing pattern of members' speeches after the electoral reform in 1994.        </div>
-
-
-
+{:.abstract}
+{:#article2abst}
+This article explains what determine the amount of speeches delivered by Japanese Lower House members at standing committees.  The literature has considered committees as merely obstacles to pass legislations or as an &ldquo;arena&rdquo; for debates only for partisan purposes.  This article argues that individual members' motivations are also important: members use speeches as opportunities for improving electoral fortunes, getting promotion in their party, and influencing policy by exerting their expertise.  To support this argument, the authors parse conference minutes in the 1980s and 2000s using Perl scripts and compile an original dataset on the amount of committee speeches given by individual House members.  The analyses show that there are three important determinants of speech amounts, which are members' electoral interests, policy expertise of each member, and partisan politics.  In addition, comparison between two decades suggests the changing pattern of members' speeches after the electoral reform in 1994.
 
 
 # Work in Progress
