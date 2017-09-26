@@ -4,7 +4,7 @@ layout: default
 # Publications
 
 &ldquo;Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data.&rdquo; Accepted for publication, _Statistics, Politics and Policy_ with Julio Amador, Sofia Collignon-Delmar, and Kenneth Benoit.
-[[pdf]](../file/Amador_etal_SPP_2017.pdf")<!--<span class='cl' id="article3cl">[Abstract]</span>-->
+[[pdf]](../file/Amador_etal_SPP_2017.pdf)<!--<span class='cl' id="article3cl">[Abstract]</span>-->
 
 &ldquo;The Effects of Election Proximity on Participatory Shirking: The Staggered-Term Chamber as a Laboratory.&rdquo; (2015)
 _Legislative Studies Quarterly,_ 40(4), pp. 599-625, with Kentaro Fukumoto. `[Abstract]`{:.cl}{:#article1cl}
