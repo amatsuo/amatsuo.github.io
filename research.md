@@ -3,8 +3,15 @@ layout: default
 ---
 # Publications
 
-&ldquo;Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data.&rdquo; Accepted for publication, _Statistics, Politics and Policy_ with Julio Amador, Sofia Collignon-Delmar, and Kenneth Benoit.
-[[pdf]](../file/Amador_etal_SPP_2017.pdf)<!--<span class='cl' id="article3cl">[Abstract]</span>-->
+&ldquo;Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data.&rdquo; (2017), _Statistics, Politics and Policy,_ 8(1) pp.85-104, with Julio Amador, Sofia Collignon-Delmar, and Kenneth Benoit.
+`[Abstract]`{:.cl}{:#article3cl}
+[[Link]](https://www.degruyter.com/view/j/spp.2017.8.issue-1/spp-2017-0006/spp-2017-0006.xml)
+
+{:.abstract}
+{:#article3abst}
+We use 23M Tweets related to the EU referendum in the UK to predict the Brexit vote. In particular, we use user-generated labels known as hashtags to build training sets related to the Leave/Remain campaign. Next, we train SVMs in order to classify Tweets. Finally, we compare our results to Internet and telephone polls. This approach not only allows to reduce the time of hand-coding data to create a training set, but also achieves high level of correlations with Internet polls. Our results suggest that Twitter data may be a suitable substitute for Internet polls and may be a useful complement for telephone polls. We also discuss the reach and limitations of this method.
+
+
 
 &ldquo;The Effects of Election Proximity on Participatory Shirking: The Staggered-Term Chamber as a Laboratory.&rdquo; (2015)
 _Legislative Studies Quarterly,_ 40(4), pp. 599-625, with Kentaro Fukumoto. `[Abstract]`{:.cl}{:#article1cl}
@@ -27,13 +34,12 @@ This article explains what determine the amount of speeches delivered by Japanes
 &ldquo;Decomposing Political Knowledge.&rdquo; (with Seonghui Lee, Invited for Revise and Resubmit) <!--<span class='cl'  id="wp1cl">[Abstract]</span>-->
 <!--<div class="abstract" id='wp1abst'>Although political knowledge has been conceptually defined with two constructs &mdash; accuracy and confidence in factual information &mdash; the conventional measurement of political knowledge employed in previous research has heavily relied on recall accuracy than the other. Lacking the attempt to measure confidence in knowledge results in our inability to rigorously identify different types of political informedness, such as misinformation. This article theoretically explores these two constructs of knowledge and argues that each construct has unique antecedents and behavior consequences. We suggest a survey instrument for confidence in knowledge and introduce a method to estimate latent traits of recall accuracy and confidence separately. Fully considering the two dimensions of political knowledge, we find that misinformed citizens are as much engaged in politics as the well-informed, but, their active involvement do not guarantee informed political choices. Our findings warrant the further theoretical and empirical exploration of the confidence in political knowledge. </div>-->
 
-&ldquo;When Lab Subjects Meet Real People: Comparing Different Modes of Experiments.&rdquo; (with Pablo Beramendi and Raymond Duch)
+&ldquo;Multi-dimensional Policy Preferences in 2015 UK General Election.&rdquo; (with Seonghui Lee, Under Review)
 
-&ldquo;Pivotal Decision Maker, Agenda Power and Collective Responsibility Attribution.&rdquo; (with Raymond Duch)
+&ldquo;Altruistic Motivations for Election Participation.&rdquo;
 
-&ldquo;Locating Economic Perceptions: the Geographical Distribution of Responses to Economic News.&rdquo; (with Raymond Duch and Philipp Burckhardt)
+&ldquo;Brexit Debate through Social Media&rdquo; (with Kenneth Benoit)
 
-<!--&ldquo;Tweet as a Tool for Election Forecast: UK 2015 General Election as an Example.&rdquo; (with Raymond Duch and Philipp Burckhardt)-->
 
 # Software
 R package: [spacyr](https://cran.r-project.org/web/packages/spacyr/index.html) (with Kenneth Benoit), [kaigiroku](https://github.com/amatsuo/kaigiroku)
@@ -41,6 +47,9 @@ R package: [spacyr](https://cran.r-project.org/web/packages/spacyr/index.html) (
 Interactive Online Experiment: [altruisticVoting](https://github.com/amatsuo/altruisticVoting), taxCompliance (both are implemented on [nodeGame](https://nodegame.org/))
 
 <script>
+$('#article3cl').click(function(){
+  $("#article3abst").toggle();
+});
   $('#article1cl').click(function(){
     $("#article1abst").toggle();
   });
