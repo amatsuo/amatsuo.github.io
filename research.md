@@ -3,7 +3,14 @@ layout: default
 ---
 # Publications
 
-&ldquo;Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data.&rdquo; (2017), _Statistics, Politics and Policy,_ 8(1) pp.85-104, with Julio Amador, Sofia Collignon-Delmar, and Kenneth Benoit.
+&ldquo;Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters&rdquo; Forthcoming, _Electoral Studies,_ with Seonghui Lee.
+`[Abstract]`{:.cl}{:#article4cl}
+
+{:.abstract}
+{:#article4abst}
+While political knowledge has been conceptually defined with two constructs – accuracy and confidence in factual information – conventional measurement of political knowledge has relied heavily on retrieval accuracy. Without measuring confidence-in-knowledge, it is not possible to rigorously identify different types of political informedness, such as misinformedness and uninformedness. This article theoretically explores the two constructs of knowledge and argues that each construct has unique antecedents and behavioral consequences. We suggest a survey instrument for confidence-in-knowledge and introduce a method to estimate latent traits of retrieval accuracy and confidence separately. Using our original survey that includes the measure of confidence-in-knowledge, we find that misinformed citizens are as engaged in politics as the well-informed, but their active involvement does not guarantee informed political choices. Our findings warrant further theoretical and empirical exploration of confidence in political knowledge.
+
+&ldquo;Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data.&rdquo; 2017, _Statistics, Politics and Policy,_ 8(1) pp.85-104, with Julio Amador, Sofia Collignon-Delmar, and Kenneth Benoit.
 `[Abstract]`{:.cl}{:#article3cl}
 [[Link]](https://www.degruyter.com/view/j/spp.2017.8.issue-1/spp-2017-0006/spp-2017-0006.xml)
 
@@ -13,7 +20,7 @@ We use 23M Tweets related to the EU referendum in the UK to predict the Brexit v
 
 
 
-&ldquo;The Effects of Election Proximity on Participatory Shirking: The Staggered-Term Chamber as a Laboratory.&rdquo; (2015)
+&ldquo;The Effects of Election Proximity on Participatory Shirking: The Staggered-Term Chamber as a Laboratory.&rdquo; 2015,
 _Legislative Studies Quarterly,_ 40(4), pp. 599-625, with Kentaro Fukumoto. `[Abstract]`{:.cl}{:#article1cl}
 [[Link]](http://onlinelibrary.wiley.com/doi/10.1111/lsq.12090/abstract)
 
@@ -22,7 +29,7 @@ _Legislative Studies Quarterly,_ 40(4), pp. 599-625, with Kentaro Fukumoto. `[Ab
 This study discusses a downside of electoral pressure. As elections approach, legislators reduce their effort in legislative activities, albeit while increasing their efficiency. To show this, we propose a new, natural experimental design exploiting staggered legislative election calendars to identify the effect of approaching elections. Two-way natural blocking improves the balance of pretreatments and an instrumental variable approach addresses noncompliance by retirees. Our analysis of the Japanese House of Councillors demonstrates that legislators up for election show up in the chamber less often than those not facing election; however, when they do show up and speak, they tend to speak longer.
 
 
-&ldquo;Kokkai Giin Ha Naze Iinkai De Hatugen Suru No Ka? Seitou, Rieki, Senkyo Seido [Why Do Diet Members Speak in Committees? Political Parties, Legislators, and Electoral Systems].&rdquo; (2010) _Japanese Journal of Electoral Studies_, 26(2), pp. 84-103, with Shunta Matsumoto [in Japanese].
+&ldquo;Kokkai Giin Ha Naze Iinkai De Hatugen Suru No Ka? Seitou, Rieki, Senkyo Seido [Why Do Diet Members Speak in Committees? Political Parties, Legislators, and Electoral Systems].&rdquo; 2010, _Japanese Journal of Electoral Studies_, 26(2), pp. 84-103, with Shunta Matsumoto [in Japanese].
 `[Abstract in English]`{:.cl}{:#article2cl}
 
 {:.abstract}
@@ -31,8 +38,6 @@ This article explains what determine the amount of speeches delivered by Japanes
 
 
 # Work in Progress
-&ldquo;Decomposing Political Knowledge.&rdquo; (with Seonghui Lee, Invited for Revise and Resubmit) <!--<span class='cl'  id="wp1cl">[Abstract]</span>-->
-<!--<div class="abstract" id='wp1abst'>Although political knowledge has been conceptually defined with two constructs &mdash; accuracy and confidence in factual information &mdash; the conventional measurement of political knowledge employed in previous research has heavily relied on recall accuracy than the other. Lacking the attempt to measure confidence in knowledge results in our inability to rigorously identify different types of political informedness, such as misinformation. This article theoretically explores these two constructs of knowledge and argues that each construct has unique antecedents and behavior consequences. We suggest a survey instrument for confidence in knowledge and introduce a method to estimate latent traits of recall accuracy and confidence separately. Fully considering the two dimensions of political knowledge, we find that misinformed citizens are as much engaged in politics as the well-informed, but, their active involvement do not guarantee informed political choices. Our findings warrant the further theoretical and empirical exploration of the confidence in political knowledge. </div>-->
 
 &ldquo;Multi-dimensional Policy Preferences in 2015 UK General Election.&rdquo; (with Seonghui Lee, Under Review)
 
@@ -47,6 +52,9 @@ R package: [spacyr](https://cran.r-project.org/web/packages/spacyr/index.html) (
 Interactive Online Experiment: [altruisticVoting](https://github.com/amatsuo/altruisticVoting), taxCompliance (both are implemented on [nodeGame](https://nodegame.org/))
 
 <script>
+$('#article4cl').click(function(){
+  $("#article4abst").toggle();
+});
 $('#article3cl').click(function(){
   $("#article3abst").toggle();
 });
