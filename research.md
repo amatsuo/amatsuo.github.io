@@ -4,7 +4,7 @@ layout: default
 # Publications
 
 &ldquo;Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters&rdquo; Forthcoming, _Electoral Studies,_ with Seonghui Lee.
-`[Abstract]`{:.cl}{:#article4cl}
+`[Abstract]`{:.cl}{:#article4cl} [[DOI]](http://www.sciencedirect.com/science/article/pii/S0261379417302743)
 
 {:.abstract}
 {:#article4abst}
