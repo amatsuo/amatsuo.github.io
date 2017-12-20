@@ -3,14 +3,14 @@ layout: default
 ---
 # Publications
 
-&ldquo;Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters&rdquo; 2018, _Electoral Studies,_ 51(1): pp.1-13 with Seonghui Lee.
+&ldquo;Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters&rdquo; 2018, _Electoral Studies,_ 51(1): pp. 1-13, with Seonghui Lee.
 `[Abstract]`{:.cl}{:#ab_click4} [[DOI]](https://doi.org/10.1016/j.electstud.2017.11.005)
 
 {:.abstract}
 {:#abst4}
 While political knowledge has been conceptually defined with two constructs – accuracy and confidence in factual information – conventional measurement of political knowledge has relied heavily on retrieval accuracy. Without measuring confidence-in-knowledge, it is not possible to rigorously identify different types of political informedness, such as misinformedness and uninformedness. This article theoretically explores the two constructs of knowledge and argues that each construct has unique antecedents and behavioral consequences. We suggest a survey instrument for confidence-in-knowledge and introduce a method to estimate latent traits of retrieval accuracy and confidence separately. Using our original survey that includes the measure of confidence-in-knowledge, we find that misinformed citizens are as engaged in politics as the well-informed, but their active involvement does not guarantee informed political choices. Our findings warrant further theoretical and empirical exploration of confidence in political knowledge.
 
-&ldquo;Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data.&rdquo; 2017, _Statistics, Politics and Policy,_ 8(1) pp.85-104, with Julio Amador, Sofia Collignon-Delmar, and Kenneth Benoit.
+&ldquo;Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data.&rdquo; 2017, _Statistics, Politics and Policy,_ 8(1), pp.85-104, with Julio Amador, Sofia Collignon-Delmar, and Kenneth Benoit.
 `[Abstract]`{:.cl}{:#ab_click3}
 [[DOI]](https://doi.org/10.1515/spp-2017-0006)
 
