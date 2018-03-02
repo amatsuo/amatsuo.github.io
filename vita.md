@@ -4,13 +4,15 @@ layout: default
 
 # Academic Appointment
 
-Postdoctoral Research Officer, Department of Methodology, London School of Economics and Political Science, 2016-Current
+Research Fellow in Data Science, Department of Methodology, London School of Economics and Political Science, March 2018 - Current
 
-Postdoctoral Research Officer, Nuffield Centre for Experimental Social Sciences, 2012-2016
+Postdoctoral Research Officer, Department of Methodology, London School of Economics and Political Science, September 2016 - February 2018
+
+Postdoctoral Research Officer, Nuffield Centre for Experimental Social Sciences, December 2012 - August 2016
 
 # Education
 
-Ph.D. Political Science, Rice University, May 2012
+Ph.D. Political Science, Rice University, 2012
 
 M.A. Political Science, Michigan State University, 2005
 
