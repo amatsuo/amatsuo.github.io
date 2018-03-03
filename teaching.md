@@ -1,8 +1,9 @@
 ---
-layout: default
+title: Teaching
+layout: page
 ---
 
-# Courses Taught
+### Courses Taught
 
 Instructor, Summer School on Experimental Social Sciences, Munk School of Global Affairs, Univerity of Toronto, 2014, 2015 (online experiments and introductory data analysis).
 

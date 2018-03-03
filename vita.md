@@ -1,8 +1,9 @@
 ---
-layout: default
+title: C.V.
+layout: page
 ---
 
-# Academic Appointment
+### Academic Appointment
 
 Research Fellow in Data Science, Department of Methodology, London School of Economics and Political Science, March 2018 - Current
 
@@ -10,7 +11,7 @@ Postdoctoral Research Officer, Department of Methodology, London School of Econo
 
 Postdoctoral Research Officer, Nuffield Centre for Experimental Social Sciences, December 2012 - August 2016
 
-# Education
+### Education
 
 Ph.D. Political Science, Rice University, 2012
 
@@ -20,4 +21,4 @@ M.A. Political Science, Kyoto University, 2002
 
 B.A. Law, Kyoto University, 2000
 
-[Download my C.V in pdf file]({{ site.baseurl }}/file/cv_Matsuo_Akitaka.pdf)
+[Download my C.V in pdf file]({{ site.baseurl }}file/cv_Matsuo_Akitaka.pdf)

@@ -1,9 +1,32 @@
 ---
-layout: default
+title: Research
+layout: page
 ---
-# Publications
 
-## Peer-reviewed Journal Publications
+<style>
+.abstract {
+  display: none;
+  padding: 15px 25px;
+  margin: 0 5px 10px 5px;
+  background-color: #EEE;
+}
+
+div .p {
+    padding: 5px 0 10px 0;
+
+}
+.cl{
+    font-weight: bolder;
+}
+
+.place_holder {
+    height: 10px;
+}
+
+</style>
+### Publications
+
+#### Peer-reviewed Journal Publications
 
 &ldquo;Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters&rdquo; 2018, _Electoral Studies,_ 51(1): pp. 1-13, with Seonghui Lee.
 `[Abstract]`{:.cl}{:#ab_click4} [[DOI]](https://doi.org/10.1016/j.electstud.2017.11.005)
@@ -38,12 +61,12 @@ This study discusses a downside of electoral pressure. As elections approach, le
 {:#abst2}
 This article explains what determine the amount of speeches delivered by Japanese Lower House members at standing committees.  The literature has considered committees as merely obstacles to pass legislations or as an &ldquo;arena&rdquo; for debates only for partisan purposes.  This article argues that individual members' motivations are also important: members use speeches as opportunities for improving electoral fortunes, getting promotion in their party, and influencing policy by exerting their expertise.  To support this argument, the authors parse conference minutes in the 1980s and 2000s using Perl scripts and compile an original dataset on the amount of committee speeches given by individual House members.  The analyses show that there are three important determinants of speech amounts, which are members' electoral interests, policy expertise of each member, and partisan politics.  In addition, comparison between two decades suggests the changing pattern of members' speeches after the electoral reform in 1994.
 
-## Peer-reviewed conference proceedings
+#### Peer-reviewed conference proceedings
 
 &ldquo;Findings from the Hackathon on Understanding Euroscepticism Through the Lens of Textual Data.&rdquo; 2018, ParlaCLARIN at the 11th edition of the Language Resources and Evaluation Conference (LREC2018), with Federico Nanni, Gran Glavas, Simone Paolo Ponzetto, [and 19 others].
 
 
-# Work in Progress
+### Work in Progress
 
 &ldquo;Multi-dimensional Policy Preferences in 2015 UK General Election.&rdquo; (with Seonghui Lee, Under Review)
 
@@ -52,14 +75,16 @@ This article explains what determine the amount of speeches delivered by Japanes
 &ldquo;Brexit Debate through Social Media&rdquo; (with Kenneth Benoit)
 
 
-# Software
+## Software
 R packages:
 
-- [spacyr](https://github.com/quanteda/spacyr) (with Kenneth Benoit, [CRAN](https://cran.r-project.org/web/packages/spacyr/index.html))
-- [kaigiroku](https://github.com/amatsuo/kaigiroku)
-- [wordshoal](https://github.com/kbenoit/wordshoal) (with Kenneth Benoit and Benjamin Lauderdale)
+  - [spacyr](https://github.com/quanteda/spacyr) (with Kenneth Benoit, [CRAN](https://cran.r-project.org/web/packages/spacyr/index.html))
+  - [kaigiroku](https://github.com/amatsuo/kaigiroku)
+  - [wordshoal](https://github.com/kbenoit/wordshoal) (with Kenneth Benoit and Benjamin Lauderdale)
 
 Interactive Online Experiment: [altruisticVoting](https://github.com/amatsuo/altruisticVoting), taxCompliance (both are implemented on [nodeGame](https://nodegame.org/))
+
+<script type="text/javascript" src="{{ site.baseurl }}js/jquery-1.11.3.min.js"></script>
 
 <script>
 $(document).ready(function(){

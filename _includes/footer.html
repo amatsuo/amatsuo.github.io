@@ -1,0 +1,20 @@
+<footer><div style='clear:both;padding-top:30px'><!--<span>@2017 - Monochrome</span>-->
+<span style = "padding:10px">
+  Contacts:
+  {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+  {% endfor %}
+</span>
+<p>Powered by <a href="http://jekyllrb.com/">Jekyll</a> &amp; <a href="https://github.com/dyutibarma/monochrome">monochrome</a>.</p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68348522-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</div></footer>
