@@ -90,7 +90,7 @@ Interactive Online Experiment: [altruisticVoting](https://github.com/amatsuo/alt
 $(document).ready(function(){
   $(document).on('click','[id^=ab_click]', function() {
     var num = $(this).attr('id').split('click')[1];
-    $('#abst'+ num).toggle();
+    $('#abst'+ num).fadeToggle();
   });
 });
 </script>
