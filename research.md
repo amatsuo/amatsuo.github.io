@@ -86,7 +86,7 @@ Interactive Online Experiment: [altruisticVoting](https://github.com/amatsuo/alt
 
 <script>
 $(document).ready(function(){
-  $(document).on('click','.cl', function() {
+  $(document).on('click touchstart', '.cl', function() {
     $(this).parent().next(".abstract").fadeToggle();
   });
 });
