@@ -71,7 +71,8 @@ This article explains what determine the amount of speeches delivered by Japanes
 &ldquo;Brexit Debate through Social Media&rdquo; (with Kenneth Benoit)
 
 
-## Software
+### Software
+
 R packages:
 
   - [spacyr](https://github.com/quanteda/spacyr) (with Kenneth Benoit, [CRAN](https://cran.r-project.org/web/packages/spacyr/index.html))
@@ -80,7 +81,8 @@ R packages:
 
 Interactive Online Experiment: [altruisticVoting](https://github.com/amatsuo/altruisticVoting), taxCompliance (both are implemented on [nodeGame](https://nodegame.org/))
 
-<script type="text/javascript" src="{{ site.baseurl }}js/jquery-1.11.3.min.js"></script>
+<script src="https://code.jquery.com/jquery-latest.min.js"
+        type="text/javascript"></script>
 
 <script>
 $(document).ready(function(){
