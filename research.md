@@ -64,7 +64,7 @@ This article explains what determine the amount of speeches delivered by Japanes
 
 ### Work in Progress
 
-&ldquo;Multi-dimensional Policy Preferences in 2015 UK General Election.&rdquo; (with Seonghui Lee, Under Review)
+&ldquo;Multi-dimensional Policy Preferences in 2015 UK General Election.&rdquo; (with Seonghui Lee, Invited to revise and resubmit)
 
 &ldquo;Altruistic Motivations for Election Participation.&rdquo;
 
