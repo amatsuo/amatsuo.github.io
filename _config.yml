@@ -1,11 +1,11 @@
 # Site settings
 title: Akitaka Matsuo
 description: "Research Fellow at LSE."
-url: "https://amatsuo.github.io"
+url: "http://amatsuo.net"
 author:
   name: "Akitaka Matsuo"
   email: "matsuoakitaka@gmail.com"
-  url: "https://thereviewindex.com"
+  url: "http://amatsuo.net"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
