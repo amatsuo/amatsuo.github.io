@@ -30,6 +30,8 @@ div .p {
 
 &ldquo;Multi-dimensional Policy Preferences in the 2015 British General Election: A Conjoint Analysis&rdquo; Forthcoming, _Electoral Studies,_ with Seonghui Lee.
 `[Abstract]`{:.cl}
+[[DOI]](https://doi.org/10.1016/j.electstud.2018.07.005)
+
 
 {:.abstract}
 This research explores voter preferences in the multi-dimensional policy space of the 2015 UK general election, as well as the influence of those preferences on vote choice. In our original pre-election survey, we apply a conjoint experimental design where we use actual party manifestos to examine voters’ policy preferences across five main policy domains. This design allows us to both identify voters’ sincere preferences, as estimated by their responses to hypothetical policy packages, and to reveal the influence of these preferences on voter support in the actual election. Our analysis reveals a considerable level of congruence between voters’ underlying policy preferences and their vote choice in the 2015 election. Our results also speak to the previous literature on policy preferences and vote choice by demonstrating that voters not only weigh the importance of particular policy domains differently, but also have clear preferences regarding specific policy positions in a given domain, which eventually influence their support for a party in the election.
