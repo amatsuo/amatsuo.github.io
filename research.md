@@ -32,7 +32,7 @@ div .p {
 [[DOI]](https://doi.org/10.21105/joss.00774)
 
 
-&ldquo;Multi-dimensional Policy Preferences in the 2015 British General Election: A Conjoint Analysis&rdquo; Forthcoming, _Electoral Studies,_ with Seonghui Lee.
+&ldquo;Multi-dimensional Policy Preferences in the 2015 British General Election: A Conjoint Analysis&rdquo; 2018, _Electoral Studies,_ 55, 89-98, with Seonghui Lee.
 `[Abstract]`{:.cl}
 [[DOI]](https://doi.org/10.1016/j.electstud.2018.07.005)
 
