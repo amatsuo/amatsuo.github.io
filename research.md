@@ -28,6 +28,10 @@ div .p {
 
 #### Peer-reviewed Journal Publications
 
+&ldquo;quanteda: An R package for the quantitative analysis of textual data&rdquo; Forthcoming, _Journal of Open Source Software,_ 3(30), 774, with Kenneth Benoit, KoheiWatanabe, HaiyanWang, Paul Nulty, Adam Obeng, and Stefan Müller.
+[[DOI]](https://doi.org/10.21105/joss.00774)
+
+
 &ldquo;Multi-dimensional Policy Preferences in the 2015 British General Election: A Conjoint Analysis&rdquo; Forthcoming, _Electoral Studies,_ with Seonghui Lee.
 `[Abstract]`{:.cl}
 [[DOI]](https://doi.org/10.1016/j.electstud.2018.07.005)
