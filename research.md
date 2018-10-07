@@ -41,13 +41,13 @@ div .p {
 This research explores voter preferences in the multi-dimensional policy space of the 2015 UK general election, as well as the influence of those preferences on vote choice. In our original pre-election survey, we apply a conjoint experimental design where we use actual party manifestos to examine voters’ policy preferences across five main policy domains. This design allows us to both identify voters’ sincere preferences, as estimated by their responses to hypothetical policy packages, and to reveal the influence of these preferences on voter support in the actual election. Our analysis reveals a considerable level of congruence between voters’ underlying policy preferences and their vote choice in the 2015 election. Our results also speak to the previous literature on policy preferences and vote choice by demonstrating that voters not only weigh the importance of particular policy domains differently, but also have clear preferences regarding specific policy positions in a given domain, which eventually influence their support for a party in the election.
 
 
-&ldquo;Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters&rdquo; 2018, _Electoral Studies,_ 51(1): pp. 1-13, with Seonghui Lee.
+&ldquo;Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters&rdquo; 2018, _Electoral Studies,_ 51(1):  1-13, with Seonghui Lee.
 `[Abstract]`{:.cl} [[DOI]](https://doi.org/10.1016/j.electstud.2017.11.005)
 
 {:.abstract}
 While political knowledge has been conceptually defined with two constructs – accuracy and confidence in factual information – conventional measurement of political knowledge has relied heavily on retrieval accuracy. Without measuring confidence-in-knowledge, it is not possible to rigorously identify different types of political informedness, such as misinformedness and uninformedness. This article theoretically explores the two constructs of knowledge and argues that each construct has unique antecedents and behavioral consequences. We suggest a survey instrument for confidence-in-knowledge and introduce a method to estimate latent traits of retrieval accuracy and confidence separately. Using our original survey that includes the measure of confidence-in-knowledge, we find that misinformed citizens are as engaged in politics as the well-informed, but their active involvement does not guarantee informed political choices. Our findings warrant further theoretical and empirical exploration of confidence in political knowledge.
 
-&ldquo;Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data.&rdquo; 2017, _Statistics, Politics and Policy,_ 8(1), pp.85-104, with Julio Amador, Sofia Collignon-Delmar, and Kenneth Benoit.
+&ldquo;Predicting the Brexit Vote by Tracking and Classifying Public Opinion Using Twitter Data.&rdquo; 2017, _Statistics, Politics and Policy,_ 8(1), 85-104, with Julio Amador, Sofia Collignon-Delmar, and Kenneth Benoit.
 `[Abstract]`{:.cl}
 [[DOI]](https://doi.org/10.1515/spp-2017-0006)
 
@@ -57,14 +57,14 @@ We use 23M Tweets related to the EU referendum in the UK to predict the Brexit v
 
 
 &ldquo;The Effects of Election Proximity on Participatory Shirking: The Staggered-Term Chamber as a Laboratory.&rdquo; 2015,
-_Legislative Studies Quarterly,_ 40(4), pp. 599-625, with Kentaro Fukumoto. `[Abstract]`{:.cl}
+_Legislative Studies Quarterly,_ 40(4),  599-625, with Kentaro Fukumoto. `[Abstract]`{:.cl}
 [[DOI]](https://doi.org/10.1111/lsq.12090)
 
 {:.abstract}
 This study discusses a downside of electoral pressure. As elections approach, legislators reduce their effort in legislative activities, albeit while increasing their efficiency. To show this, we propose a new, natural experimental design exploiting staggered legislative election calendars to identify the effect of approaching elections. Two-way natural blocking improves the balance of pretreatments and an instrumental variable approach addresses noncompliance by retirees. Our analysis of the Japanese House of Councillors demonstrates that legislators up for election show up in the chamber less often than those not facing election; however, when they do show up and speak, they tend to speak longer.
 
 
-&ldquo;Kokkai Giin Ha Naze Iinkai De Hatugen Suru No Ka? Seitou, Rieki, Senkyo Seido [Why Do Diet Members Speak in Committees? Political Parties, Legislators, and Electoral Systems].&rdquo; 2010, _Japanese Journal of Electoral Studies_, 26(2), pp. 84-103, with Shunta Matsumoto [in Japanese].
+&ldquo;Kokkai Giin Ha Naze Iinkai De Hatugen Suru No Ka? Seitou, Rieki, Senkyo Seido [Why Do Diet Members Speak in Committees? Political Parties, Legislators, and Electoral Systems].&rdquo; 2010, _Japanese Journal of Electoral Studies_, 26(2),  84-103, with Shunta Matsumoto [in Japanese].
 `[Abstract in English]`{:.cl}
 
 {:.abstract}
