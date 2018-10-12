@@ -3,6 +3,9 @@ title: C.V.
 layout: page
 ---
 
+[Download my C.V in pdf file]({{ site.baseurl }}file/cv_Matsuo_Akitaka.pdf)
+
+
 ### Academic Appointment
 
 Research Fellow in Data Science, Department of Methodology, London School of Economics and Political Science, March 2018 - Current
@@ -20,5 +23,3 @@ M.A. Political Science, Michigan State University, 2005
 M.A. Political Science, Kyoto University, 2002
 
 B.A. Law, Kyoto University, 2000
-
-[Download my C.V in pdf file]({{ site.baseurl }}file/cv_Matsuo_Akitaka.pdf)
