@@ -6,6 +6,7 @@ description: This page describes Akitaka Matsuo.
 
 <img src='{{ site.baseurl }}img/amatsuo.jpg' width='300' style='padding:0px' align = 'right' style="margin:0 30px">
 
-I am Research Fellow in Data Science in [Department of Methodology](http://www.lse.ac.uk/methodology) at the [London School of Economics and Political Science](http://www.lse.ac.uk). I earned my Ph.D in [political science](https://politicalscience.rice.edu/) at [Rice University](http://www.rice.edu/) in 2012. I was a research officer in Department of Methodology at LSE, and before joining LSE, I was a postdoc in [Nuffield Centre for Experimental Social Sciences](https://cess-web.nuff.ox.ac.uk) at University of Oxford.
+I am Postdoctoral Fellow in [Institute for Analytics and Data Science (IADS)](https://www.essex.ac.uk/centres-and-institutes/institute-for-analytics-and-data-science) at [University of Essex](https://www.essex.ac.uk/). Before joining IADS,
+I was a Research Fellow in Data Science in [Department of Methodology](http://www.lse.ac.uk/methodology) at the [London School of Economics and Political Science](http://www.lse.ac.uk). I earned my Ph.D in [political science](https://politicalscience.rice.edu/) at [Rice University](http://www.rice.edu/) in 2012.
 
-My research interests lie in the fields of quantitative methodology and politics. In particular, I am interested in the statistical methodology for latent scaling of survey responses and legislative speeches, content analysis of large corpus of texts (e.g. social media texts, open-ended survey answers, and parliamentary speeches), and causal identification in legislative behavior.
+My research interests lie in data science and politics. In particular, I am interested in the statistical methodology for scaling survey responses and legislative behavior, and natural language processing of political texts (e.g. social media texts, open-ended survey answers, and parliamentary speeches).

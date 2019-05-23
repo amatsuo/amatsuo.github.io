@@ -8,7 +8,9 @@ layout: page
 
 ### Academic Appointment
 
-Research Fellow in Data Science, Department of Methodology, London School of Economics and Political Science, March 2018 - Current
+Postdoctoral Fellow, Institute for Analytics and Data Science, University of Essex, May 2019 - Current
+
+Research Fellow in Data Science, Department of Methodology, London School of Economics and Political Science, March 2018 - May 2019
 
 Postdoctoral Research Officer, Department of Methodology, London School of Economics and Political Science, September 2016 - February 2018
 
