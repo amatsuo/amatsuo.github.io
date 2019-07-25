@@ -4,7 +4,7 @@ description: Direct Link to Polisci Journals at Essex
 header: Links
 ---
 
-- [AJPS](https://0-onlinelibrary-wiley-com.serlib0.essex.ac.uk/doi/10.1111)
+- [AJPS](https://0-onlinelibrary-wiley-com.serlib0.essex.ac.uk/doi/10.1111/ajps.12455)
 - [APSR](https://0-www-cambridge-org.serlib0.essex.ac.uk/core/journals/american-political-science-review/all-issues)
 - [JoP](https://0-www-journals-uchicago-edu.serlib0.essex.ac.uk/loi/jop)
 - [Political Analysis](https://0-www-cambridge-org.serlib0.essex.ac.uk/core/journals/political-analysis/all-issues)
