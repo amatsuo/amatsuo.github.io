@@ -13,4 +13,4 @@ header: Links
 - [Parliamentary Affairs](https://0-academic-oup-com.serlib0.essex.ac.uk/pa/issue)
 - [Electoral Studies](https://0-www-sciencedirect-com.serlib0.essex.ac.uk/journal/electoral-studies)
 - [Political Behavior](https://0-link-springer-com.serlib0.essex.ac.uk/journal/volumesAndIssues/11109)
-- [Political Research Quarterly](https://0-journals-sagepub-com.serlib0.essex.ac.uk/loi/prq)x
+- [Political Research Quarterly](https://0-journals-sagepub-com.serlib0.essex.ac.uk/loi/prq)
