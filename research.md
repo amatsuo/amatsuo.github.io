@@ -77,9 +77,10 @@ This article explains what determine the amount of speeches delivered by Japanes
 
 ### Work in Progress
 
-&ldquo;Altruistic Motivations for Election Participation.&rdquo;
-
-&ldquo;Brexit Debate through Social Media&rdquo; (with Kenneth Benoit)
+&ldquo;The Social Media Audience of Diplomatic Events.&rdquo; (with Oul Han, Under Review)\\[2mm]
+&ldquo;Gender Classification of Parliamentary Speeches in the Japanese House of Representatives.&rdquo;\\[2mm]
+&ldquo; to False Beliefs: Political Ignorance, Partisan
+Motivation, and Conspiracy Mentality.&rdquo; (with Seonghui Lee and David Hendry)\\[2mm]
 
 
 ### Software
