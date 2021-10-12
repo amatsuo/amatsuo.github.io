@@ -82,12 +82,10 @@ This article explains what determine the amount of speeches delivered by Japanes
 
 &ldquo;The Social Media Audience of Diplomatic Events.&rdquo; (with Oul Han, Under Review)
 
-&ldquo;The Social Media Audience of Diplomatic Events.&rdquo; (with Oul Han, Under Review)
+&ldquo; Path to False Beliefs: Political Ignorance, Partisan
+Motivation, and Conspiracy Mentality.&rdquo; (with Seonghui Lee and David Hendry, Under Review)
 
 &ldquo;Gender Classification of Parliamentary Speeches in the Japanese House of Representatives.&rdquo;
-
-&ldquo; to False Beliefs: Political Ignorance, Partisan
-Motivation, and Conspiracy Mentality.&rdquo; (with Seonghui Lee and David Hendry)
 
 
 ### Software
