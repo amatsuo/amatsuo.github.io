@@ -77,6 +77,11 @@ This article explains what determine the amount of speeches delivered by Japanes
 
 ### Work in Progress
 
+
+&ldquo;Ideas for Macroeconomic Surveillance:  Comparative Text Analysis of Country Reports by Global and Re-gional Financial Institutions&rdquo; (with Motoshi Suzuki and Azusa Uji, Under Review)
+
+&ldquo;The Social Media Audience of Diplomatic Events.&rdquo; (with Oul Han, Under Review)
+
 &ldquo;The Social Media Audience of Diplomatic Events.&rdquo; (with Oul Han, Under Review)
 
 &ldquo;Gender Classification of Parliamentary Speeches in the Japanese House of Representatives.&rdquo;
