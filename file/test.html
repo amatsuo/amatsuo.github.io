@@ -1,0 +1,76 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>A Basic HTML5 Template</title>
+  <meta name="description" content="A simple HTML5 Template for new projects.">
+  <meta name="author" content="SitePoint">
+
+  <meta property="og:title" content="A Basic HTML5 Template">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.sitepoint.com/a-basic-html5-template/">
+  <meta property="og:description" content="A simple HTML5 Template for new projects.">
+  <meta property="og:image" content="image.png">
+
+  <link rel="icon" href="/favicon.ico">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+  <!-- your content here... -->
+  <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"> </script> 
+<script type="text/javascript">
+const dfMessenger = document.querySelector('df-messenger');
+dfMessenger.addEventListener('df-messenger-loaded',  function (event) {
+    dfMessenger.renderCustomText('Welcome to the new and improved version of Dexter');
+    document.querySelector('df-messenger').shadowRoot.querySelector('.df-messenger-wrapper').querySelector('#widgetIcon').style.bottom = "5vh"});
+
+dfMessenger.addEventListener('df-chip-clicked', function (event) {
+  // Handle event
+  dfMessenger.renderCustomText('Your record is sent to the GP. Have a good day!');
+});
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        //To minimise the height of chatbox
+        $(document).ready(function() {
+            window.addEventListener('dfMessengerLoaded', function (event) {
+            $r1 = document.querySelector("df-messenger");
+            $r2 = $r1.shadowRoot.querySelector("df-messenger-chat");
+            var sheet = new CSSStyleSheet;
+            // manage box height from here
+            sheet.replaceSync( `div.chat-wrapper[opened="true"] { height: 70%; width: 350px }`);
+            $r2.shadowRoot.adoptedStyleSheets = [ sheet ];
+            });
+        });
+    </script>
+<df-messenger
+  intent="WELCOME"
+  chat-icon="https://i.ibb.co/dMZ00gL/icon.png"
+  chat-title="Eliza from InvictIQ"
+  agent-id="ca8c91b3-8ec7-469c-8034-25c9b461875e"
+  language-code="en"
+  expand = true
+></df-messenger>
+<style>
+  df-messenger {
+   --df-messenger-bot-message: #BDBDBD;
+   --df-messenger-button-titlebar-color: #025DB6;
+   --df-messenger-chat-background-color: #F0F6F6;
+   --df-messenger-font-color: #FCFFFB;
+   --df-messenger-input-box-color: #025DB6;
+   --df-messenger-input-font-color: white;
+   --df-messenger-input-placeholder-font-color: white;
+   --df-messenger-send-icon: white;
+   --df-messenger-user-message: #007F3A;
+  }
+</style>
+</body>
+</html>
