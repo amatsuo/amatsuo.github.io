@@ -93,7 +93,7 @@ Motivation, and Conspiracy Mentality.&rdquo; (with Seonghui Lee and David Hendry
 R packages:
 
   - [spacyr](https://github.com/quanteda/spacyr) (with Kenneth Benoit, [CRAN](https://cran.r-project.org/web/packages/spacyr/index.html))
-  - [kaigiroku](https://github.com/amatsuo/kaigiroku)
+  - [kaigiroku](https://github.com/amatsuo/kaigiroku) [CRAN](https://cran.r-project.org/web/packages/kaigiroku/index.html)
   - [wordshoal](https://github.com/kbenoit/wordshoal) (with Kenneth Benoit and Benjamin Lauderdale)
 
 Interactive Online Experiment: [altruisticVoting](https://github.com/amatsuo/altruisticVoting), taxCompliance (both are implemented on [nodeGame](https://nodegame.org/))
