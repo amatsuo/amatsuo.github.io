@@ -78,9 +78,9 @@ This article explains what determine the amount of speeches delivered by Japanes
 ### Work in Progress
 
 
-&ldquo;Ideas for Macroeconomic Surveillance:  Comparative Text Analysis of Country Reports by Global and Re-gional Financial Institutions&rdquo; (with Motoshi Suzuki and Azusa Uji, Revise and Resubmit)
+&ldquo;Ideas for Macroeconomic Surveillance:  Comparative Text Analysis of Country Reports by Global and Re-gional Financial Institutions&rdquo; (with Motoshi Suzuki and Azusa Uji, Conditionally Accepted at Review of International Political Economy)
 
-&ldquo;The Social Media Audience of Diplomatic Events.&rdquo; (with Oul Han, Revise and Resubmit)
+&ldquo;The Social Media Audience of Diplomatic Events.&rdquo; (with Oul Han and Naoko Matsumura, Revise and Resubmit)
 
 &ldquo; Path to False Beliefs: Political Ignorance, Partisan
 Motivation, and Conspiracy Mentality.&rdquo; (with Seonghui Lee and David Hendry, Under Review)
