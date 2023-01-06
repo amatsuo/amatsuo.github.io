@@ -28,7 +28,10 @@ div .p {
 
 #### Peer-reviewed Journal Publications
 
-&ldquo;quanteda: An R package for the quantitative analysis of textual data&rdquo; Forthcoming, _Journal of Open Source Software,_ 3(30), 774, with Kenneth Benoit, KoheiWatanabe, HaiyanWang, Paul Nulty, Adam Obeng, and Stefan Müller.
+&ldquo;Ideas for Macroeconomic Surveillance:  Comparative Text Analysis of Country Reports by Global and Re-gional Financial Institutions&rdquo; Forthcoming, Review of International Political Economy, with Motoshi Suzuki and Azusa Uji.
+
+
+&ldquo;quanteda: An R package for the quantitative analysis of textual data&rdquo; 2019, _Journal of Open Source Software,_ 3(30), 774, with Kenneth Benoit, Kohei Watanabe, Haiyan Wang, Paul Nulty, Adam Obeng, and Stefan Müller.
 [[DOI]](https://doi.org/10.21105/joss.00774)
 
 
@@ -76,9 +79,6 @@ This article explains what determine the amount of speeches delivered by Japanes
 
 
 ### Work in Progress
-
-
-&ldquo;Ideas for Macroeconomic Surveillance:  Comparative Text Analysis of Country Reports by Global and Re-gional Financial Institutions&rdquo; (with Motoshi Suzuki and Azusa Uji, Conditionally Accepted at Review of International Political Economy)
 
 &ldquo;The Social Media Audience of Diplomatic Events.&rdquo; (with Oul Han and Naoko Matsumura, Revise and Resubmit)
 
