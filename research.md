@@ -28,8 +28,11 @@ div .p {
 
 #### Peer-reviewed Journal Publications
 
-&ldquo;Ideas for Macroeconomic Surveillance:  Comparative Text Analysis of Country Reports by Global and Re-gional Financial Institutions&rdquo; Forthcoming, Review of International Political Economy, with Motoshi Suzuki and Azusa Uji.
+&ldquo;Ideas for Macroeconomic Surveillance:  Comparative Text Analysis of Country Reports by Global and Re-gional Financial Institutions&rdquo; Forthcoming, _Review of International Political Economy_, with Motoshi Suzuki and Azusa Uji. `[Abstract]`{:.cl}
+ [[DOI]](https://doi.org/10.1080/09692290.2023.2166563)
 
+{:.abstract}
+Institutional proliferation in the global financial order raises concerns about a failure of coordination between global and regional organizations and the resulting confusion and conflict. One area of concern is macroeconomic surveillance, which is crucial for the detection of financial crises as a task subject to institutional overlaps. The existing literature does not provide systematic evidence on the extent and determinants of such coordination. To fill this lacuna, we compare the International Monetary Fund and the ASEAN Plus Three Macroeconomic Research Office, a surveillance agency in East Asia, using their country reports as outcomes of their surveillance of East Asian countries. We conduct dictionary-based text analyses to assess the usage patterns of key terms concerning particular economic ideas. The results demonstrate substantial similarities between the country reports as well as some residual differences. These findings suggest that they engage in informal coordination based on focal-point effects through the use of general and regional economic ideas for multifaceted surveillance. They further suggest that informality permits them to exercise discretion in deciding policy categories for aligned and autonomous actions, thereby providing an efficient solution to an autonomy–coordination dilemma. Through these discussions, our study suggests important implications for researchers and member governments.
 
 &ldquo;quanteda: An R package for the quantitative analysis of textual data&rdquo; 2019, _Journal of Open Source Software,_ 3(30), 774, with Kenneth Benoit, Kohei Watanabe, Haiyan Wang, Paul Nulty, Adam Obeng, and Stefan Müller.
 [[DOI]](https://doi.org/10.21105/joss.00774)
