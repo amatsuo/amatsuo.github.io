@@ -5,9 +5,13 @@ layout: page
 
 ### Courses Taught
 
-Instructor, Data for Social Data Science, GV918, Department of Government, University of Essex, 2020.
+Instructor, Data for Social Data Science, GV918, Department of Government, University of Essex, 2020-Present.
 
-Instructor,, Machine Learning with Big Data, VB21, ECPR Virtual Methods School, 2020.
+Instructor, Machine Learning with Big Data, VB21, ECPR Virtual Methods School, 2020-Present.
+
+Instructor, Introduction to Programming in Python for Social Scientists, Essex Summer School in Social Science Data Analysis, 2022.
+
+Instructor, Introduction to Programming and Machine Learning with Big Data for Social Scientists, Waseda-Essex, Summer Research Course, 2022.
 
 Instructor, Data for Data Science, MY472, London School of Economics and Political Science, Fall 2018.
 
