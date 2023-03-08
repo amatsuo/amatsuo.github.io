@@ -28,6 +28,12 @@ div .p {
 
 #### Peer-reviewed Journal Publications
 
+&ldquo;The Social Media Audience of Diplomatic Events.&rdquo; Accepted, _British Journal of Politics and International Relations_, with Oul Han and Naoko Matsumura. `[Abstract]`{:.cl}
+
+{:.abstract}
+Social media communication makes visible the linkages between governments’ actions to diplomatic events and domestic audiences’ reactions. This study analyzes tweets that discuss the recent diplomatic crisis between Japan and Korea. Through the detection of clusters of Twitter users and the content analysis of the tweets in the two countries, this study shows how the public’s interpretation of a crisis widely differs by their stances toward their country’s government. The analysis finds that the clusters are aligned with their pro- and anti-stances toward the current government and that pro-government clusters tend to interpret the diplomatic crisis through a historical perspective, while anti-government clusters interpret it as a matter of present-day politics. Furthermore, we find strong negativity in the tweets discussing the opponent online groups, especially by the anti-government cluster against the pro-government online camp. These findings suggest that a diplomatic crisis can create or deepen domestic polarization.
+
+
 &ldquo;Ideas for Macroeconomic Surveillance:  Comparative Text Analysis of Country Reports by Global and Re-gional Financial Institutions&rdquo; Forthcoming, _Review of International Political Economy_, with Motoshi Suzuki and Azusa Uji. `[Abstract]`{:.cl}
  [[DOI]](https://doi.org/10.1080/09692290.2023.2166563)
 
@@ -83,13 +89,15 @@ This article explains what determine the amount of speeches delivered by Japanes
 
 ### Work in Progress
 
-&ldquo;The Social Media Audience of Diplomatic Events.&rdquo; (with Oul Han and Naoko Matsumura, Revise and Resubmit)
 
 &ldquo;Path to False Beliefs: Political Ignorance, Partisan
 Motivation, and Conspiracy Mentality.&rdquo; (with Seonghui Lee and David Hendry, Under Review)
 
-&ldquo;Gender Classification of Parliamentary Speeches in the Japanese House of Representatives.&rdquo;
+&ldquo;Women Use More Positive Language than Men: Candidates’ Strategic Use of Emotive Language in Election Campaigns.&rdquo; (with Tiffany Barnes, Charles Crabtree, and Yoshikuni Ono, Under Review)
 
+&ldquo;Committee Attendance, Member Replacement, and Speech in the Japanese House of Representatives&rdquo; (Under Review)
+
+&ldquo;Legislators’ Sentiment Analysis Supervised by Legislators&rdquo; (with Kentaro Fukumoto)
 
 ### Software
 
