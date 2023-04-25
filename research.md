@@ -90,14 +90,16 @@ This article explains what determine the amount of speeches delivered by Japanes
 ### Work in Progress
 
 
+&ldquo;Women Use More Positive Language than Men: Candidates’ Strategic Use of Emotive Language in Election Campaigns.&rdquo; (with Tiffany Barnes, Charles Crabtree, and Yoshikuni Ono, Under Review)
+
+&ldquo;Legislators’ Sentiment Analysis Supervised by Legislators&rdquo; (with Kentaro Fukumoto, Under Review)
+
 &ldquo;Path to False Beliefs: Political Ignorance, Partisan
 Motivation, and Conspiracy Mentality.&rdquo; (with Seonghui Lee and David Hendry, Under Review)
 
-&ldquo;Women Use More Positive Language than Men: Candidates’ Strategic Use of Emotive Language in Election Campaigns.&rdquo; (with Tiffany Barnes, Charles Crabtree, and Yoshikuni Ono, Under Review)
-
 &ldquo;Committee Attendance, Member Replacement, and Speech in the Japanese House of Representatives&rdquo; (Under Review)
 
-&ldquo;Legislators’ Sentiment Analysis Supervised by Legislators&rdquo; (with Kentaro Fukumoto)
+&ldquo;Language Choice and Career Advancement in the European Parliament&rdquo; (with Nils Ringe and Yoshikuni Ono)
 
 ### Software
 
