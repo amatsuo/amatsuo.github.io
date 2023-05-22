@@ -8,7 +8,9 @@ layout: page
 
 ### Academic Appointment
 
-Postdoctoral Fellow, Institute for Analytics and Data Science, University of Essex, May 2019 - Current
+Lecturer, Department of Government, University of Essex, May 2023 - Current
+
+Postdoctoral Fellow, Institute for Analytics and Data Science, University of Essex, May 2019 - May 2023
 
 Research Fellow in Data Science, Department of Methodology, London School of Economics and Political Science, March 2018 - May 2019
 
