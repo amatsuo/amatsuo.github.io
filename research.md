@@ -98,17 +98,21 @@ This article explains what determine the amount of speeches delivered by Japanes
 ### Work in Progress
 
 
-&ldquo;Women Use More Positive Language than Men: Candidates’ Strategic Use of Emotive Language in Election Campaigns.&rdquo; (with Tiffany Barnes, Charles Crabtree, and Yoshikuni Ono, Under Review)
+&ldquo;Women Use More Positive Language than Men: Candidates’ Strategic Use of Emotive Language in Election Campaigns&rdquo; (with Tiffany Barnes, Charles Crabtree, and Yoshikuni Ono, Revise and Resubmit)  
 
-&ldquo;Legislators’ Sentiment Analysis Supervised by Legislators&rdquo; (with Kentaro Fukumoto, Under Review)
+&ldquo;A Text Analysis of Global Plastic Treaty Negotiations: Mapping the Divide and Finding Common Ground&rdquo; (with Azusa Uji)  
 
-&ldquo;Path to False Beliefs: Political Ignorance, Partisan
-Motivation, and Conspiracy Mentality.&rdquo; (with Seonghui Lee and David Hendry, Under Review)
+&ldquo;Divergent Paths from Electoral Institutions to Campaign Strategies: Analyzing Candidate Manifestos in Japan and Taiwan&rdquo; (with Nick Lin and Naofumi Fujimura)  
 
-&ldquo;Committee Attendance, Member Replacement, and Speech in the Japanese House of Representatives&rdquo; (Under Review)
+&ldquo;Introducing a Geoparsing Technique for Political Science Research: Impact of Violence on National Identity through Spatial-Temporal Analysis of Diaries of Japanese Returnees from Manchuria&rdquo; (with Motoshi Suzuki, Kenji Yano, Hiroki Ouchi, and Gaku Ito)  
 
-&ldquo;Language Choice and Career Advancement in the European Parliament&rdquo; (with Nils Ringe and Yoshikuni Ono)
+&ldquo;Paths to False Beliefs: Political Ignorance, Partisan Motivation, and Conspiracy Mentality.&rdquo; (with Seonghui Lee and David Hendry)  
 
+&ldquo;Gender Priming and Legislative Speech Perceptions&rdquo; (with Yoshikuni Ono)  
+
+&ldquo;Language Choice and Career Advancement in the European Parliament&rdquo; (with Nils Ringe and Yoshikuni Ono)  
+
+&ldquo;Between Campaign Rhetoric and Legislative Speech&rdquo; (with Hiroki Kubo)  
 ### Software
 
 R packages:
