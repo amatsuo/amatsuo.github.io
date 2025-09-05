@@ -28,13 +28,27 @@ div .p {
 
 #### Peer-reviewed Journal Publications
 
-&ldquo;The Social Media Audience of Diplomatic Events.&rdquo; Accepted, _British Journal of Politics and International Relations_, with Oul Han and Naoko Matsumura. `[Abstract]`{:.cl}
+Here’s the formatted entry for your new paper:
+
+---
+
+&ldquo;Legislators’ sentiment analysis supervised by legislators.&rdquo; _Political Science Research and Methods_, published online, with Kentaro Fukumoto. `[Abstract]`{:.cl}
+[[DOI]](https://doi.org/10.1017/psrm.2025.10048)
+
+{:.abstract}  
+The sentiment expressed in a legislator’s speech is informative. However, extracting legislators’ sentiment requires human-annotated data. Instead, we propose exploiting closing debates on a bill in Japan, where legislators in effect label their speech as either pro or con. We utilize debate speeches as the training dataset, fine-tune a pretrained model, and calculate the sentiment scores of other speeches. We show that the more senior the opposition members are, the more negative their sentiment. Additionally, we show that opposition members become more negative as the next election approaches. We also demonstrate that legislators’ sentiments can be used to predict their behaviors by using the case in which government members rebelled in the historic vote of no confidence in 1993.
+
+
+Let me know if you'd like me to add that or make any further adjustments!
+
+&ldquo;The Social Media Audience of Diplomatic Events.&rdquo; 2024, _British Journal of Politics and International Relations_, 26(3), 922-939, with Oul Han and Naoko Matsumura. `[Abstract]`{:.cl}
+[[DOI]](https://doi.org/10.1177/13691481231172346)
 
 {:.abstract}
 Social media communication makes visible the linkages between governments’ actions to diplomatic events and domestic audiences’ reactions. This study analyzes tweets that discuss the recent diplomatic crisis between Japan and Korea. Through the detection of clusters of Twitter users and the content analysis of the tweets in the two countries, this study shows how the public’s interpretation of a crisis widely differs by their stances toward their country’s government. The analysis finds that the clusters are aligned with their pro- and anti-stances toward the current government and that pro-government clusters tend to interpret the diplomatic crisis through a historical perspective, while anti-government clusters interpret it as a matter of present-day politics. Furthermore, we find strong negativity in the tweets discussing the opponent online groups, especially by the anti-government cluster against the pro-government online camp. These findings suggest that a diplomatic crisis can create or deepen domestic polarization.
 
 
-&ldquo;Ideas for Macroeconomic Surveillance:  Comparative Text Analysis of Country Reports by Global and Re-gional Financial Institutions&rdquo; Forthcoming, _Review of International Political Economy_, with Motoshi Suzuki and Azusa Uji. `[Abstract]`{:.cl}
+&ldquo;Ideas for Macroeconomic Surveillance:  Comparative Text Analysis of Country Reports by Global and Re-gional Financial Institutions&rdquo; 2023, _Review of International Political Economy_, 30(6), 2357–2381, with Motoshi Suzuki and Azusa Uji. `[Abstract]`{:.cl}
  [[DOI]](https://doi.org/10.1080/09692290.2023.2166563)
 
 {:.abstract}
