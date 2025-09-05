@@ -28,18 +28,12 @@ div .p {
 
 #### Peer-reviewed Journal Publications
 
-Here’s the formatted entry for your new paper:
-
----
-
 &ldquo;Legislators’ sentiment analysis supervised by legislators.&rdquo; _Political Science Research and Methods_, published online, with Kentaro Fukumoto. `[Abstract]`{:.cl}
 [[DOI]](https://doi.org/10.1017/psrm.2025.10048)
 
 {:.abstract}  
 The sentiment expressed in a legislator’s speech is informative. However, extracting legislators’ sentiment requires human-annotated data. Instead, we propose exploiting closing debates on a bill in Japan, where legislators in effect label their speech as either pro or con. We utilize debate speeches as the training dataset, fine-tune a pretrained model, and calculate the sentiment scores of other speeches. We show that the more senior the opposition members are, the more negative their sentiment. Additionally, we show that opposition members become more negative as the next election approaches. We also demonstrate that legislators’ sentiments can be used to predict their behaviors by using the case in which government members rebelled in the historic vote of no confidence in 1993.
 
-
-Let me know if you'd like me to add that or make any further adjustments!
 
 &ldquo;The Social Media Audience of Diplomatic Events.&rdquo; 2024, _British Journal of Politics and International Relations_, 26(3), 922-939, with Oul Han and Naoko Matsumura. `[Abstract]`{:.cl}
 [[DOI]](https://doi.org/10.1177/13691481231172346)
