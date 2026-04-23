@@ -104,8 +104,6 @@ This article explains what determine the amount of speeches delivered by Japanes
 ### Work in Progress
 
 
-&ldquo;Women Use More Positive Language than Men: Candidates’ Strategic Use of Emotive Language in Election Campaigns&rdquo; (with Tiffany Barnes, Charles Crabtree, and Yoshikuni Ono, Revise and Resubmit)  
-
 &ldquo;A Text Analysis of Global Plastic Treaty Negotiations: Mapping the Divide and Finding Common Ground&rdquo; (with Azusa Uji)  
 
 &ldquo;Divergent Paths from Electoral Institutions to Campaign Strategies: Analyzing Candidate Manifestos in Japan and Taiwan&rdquo; (with Nick Lin and Naofumi Fujimura)  
