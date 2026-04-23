@@ -28,6 +28,12 @@ div .p {
 
 #### Peer-reviewed Journal Publications
 
+&ldquo;Sentiment on the Campaign Trail: Gender Differences in Candidates’ Use of Emotive Language.&rdquo; _Journal of Politics_, accepted for publication, with Tiffany Barnes, Charles Crabtree, and Yoshikuni Ono. `[Abstract]`{:.cl}
+[[DOI]](https://doi.org/10.1086/741451)
+
+{:.abstract}  
+How do candidates use emotive language during elections? Whereas government candidates and incumbents are incentivized to use positive language to incite support for the status quo, opposition candidates and challengers can strategically use negative sentiment to foster voter discontent. We argue that women candidates face a double bind, which makes it less likely they benefit from negative language and limits the strategies at their disposal. Leveraging approximately 165,000 tweets from 2,662 UK general election candidates, we show women are more positive and less negative than men, regardless of their government/incumbent status. Subsequent sentiment analysis of over a million replies indicates that women may avoid negativity because they are disproportionately penalized for negative emoting—garnering more negative replies and fewer likes than men. Together, these findings suggest women are not simply socialized to be more positive, but also, they are strategically motivated to behave in gender-typical ways to appeal to voters and avoid backlash on the campaign trail.
+
 &ldquo;Legislators’ sentiment analysis supervised by legislators.&rdquo; _Political Science Research and Methods_, published online, with Kentaro Fukumoto. `[Abstract]`{:.cl}
 [[DOI]](https://doi.org/10.1017/psrm.2025.10048)
 
