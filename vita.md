@@ -8,7 +8,11 @@ layout: page
 
 ### Academic Appointment
 
-Lecturer, Department of Government, University of Essex, May 2023 - Current
+Visiting Scholar, [Institute of Political Science, Academia Sinica](https://www.ipsas.sinica.edu.tw/en/), August 2026 - Present
+
+Honorary Lecturer, [Department of Government](https://www.essex.ac.uk/departments/government), University of Essex, August 2026 - Present
+
+Assistant Professor (Lecturer), Department of Government, University of Essex, May 2023 - July 2026
 
 Postdoctoral Fellow, Institute for Analytics and Data Science, University of Essex, May 2019 - May 2023
 
@@ -16,7 +20,7 @@ Research Fellow in Data Science, Department of Methodology, London School of Eco
 
 Postdoctoral Research Officer, Department of Methodology, London School of Economics and Political Science, September 2016 - February 2018
 
-Postdoctoral Research Officer, Nuffield Centre for Experimental Social Sciences, December 2012 - August 2016
+Postdoctoral Research Officer, Centre for Experimental Social Sciences, Nuffield College, University of Oxford, December 2012 - August 2016
 
 ### Education
 
